@@ -6,7 +6,7 @@ n ← r
 return m
 
 
-Pseudocode Segitiga
+Pseudocode Luas Segitiga
 deklarasi
 var luas, alas, tinggi
 alas ← 25
@@ -15,7 +15,7 @@ luas = ½*alas*tinggi
 write(luas)
 
 
-Pseudocode Lingkaran
+Pseudocode Luas Lingkaran
 deklarasi
 var phi(float);
 var r(integer),luas(integer);
