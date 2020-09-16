@@ -1,0 +1,25 @@
+Pseudo Code Euclid Algorithm
+While n ≠ 0 do
+r ← m mod n
+m ← n
+n ← r
+return m
+
+
+Pseudocode Segitiga
+deklarasi
+var luas, alas, tinggi
+alas ← 25
+tinggi ←30
+luas = ½*alas*tinggi
+write(luas)
+
+
+Pseudocode Lingkaran
+deklarasi
+var phi(float);
+var r(integer),luas(integer);
+r <- 14
+phi <– 3.14
+luas<-phi*r*r;
+write(luas);
